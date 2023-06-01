@@ -88,4 +88,4 @@
 
 ## Registradores
 
-	
+	Status: Em progresso
